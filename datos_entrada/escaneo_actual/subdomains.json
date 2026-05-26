@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "empresa.com",
+    "subdomain": "api.empresa.com",
+    "ip": "192.168.1.10",
+    "status": "active",
+    "http_status": 200,
+    "technology": "nginx"
+  },
+  {
+    "domain": "empresa.com",
+    "subdomain": "db.empresa.com",
+    "ip": "192.168.1.20",
+    "status": "active",
+    "http_status": 403,
+    "technology": "mysql"
+  },
+  {
+    "domain": "empresa.com",
+    "subdomain": "intranet.empresa.com",
+    "ip": "192.168.1.30",
+    "status": "active",
+    "http_status": 200,
+    "technology": "iis"
+  }
+]

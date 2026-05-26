@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://api.empresa.com",
+    "headers": {
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "default-src 'self'"
+    }
+  }
+]

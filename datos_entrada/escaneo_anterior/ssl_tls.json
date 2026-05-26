@@ -1,0 +1,13 @@
+[
+  {
+    "domain": "api.empresa.com",
+    "https_available": true,
+    "certificate_valid": true,
+    "days_to_expire": 80,
+    "issuer": "Let's Encrypt",
+    "tls_1_0": false,
+    "tls_1_1": false,
+    "tls_1_2": true,
+    "tls_1_3": true
+  }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Reports and temporary outputs
+datos_salida/*
+!datos_salida/.gitkeep

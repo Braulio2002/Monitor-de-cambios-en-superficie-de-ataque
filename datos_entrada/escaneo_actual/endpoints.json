@@ -1,0 +1,16 @@
+[
+  {
+    "name": "List users",
+    "url": "https://api.empresa.com/users",
+    "method": "GET",
+    "requires_auth": false,
+    "status_code": 200
+  },
+  {
+    "name": "Create User",
+    "url": "https://api.empresa.com/users",
+    "method": "POST",
+    "requires_auth": true,
+    "status_code": 201
+  }
+]

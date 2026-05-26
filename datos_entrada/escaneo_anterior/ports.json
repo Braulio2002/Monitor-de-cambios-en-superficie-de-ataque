@@ -1,0 +1,22 @@
+[
+  {
+    "target": "api.empresa.com",
+    "ip": "192.168.1.10",
+    "port": 443,
+    "protocol": "tcp",
+    "status": "open",
+    "service": "https",
+    "version": "nginx 1.24",
+    "banner": "nginx/1.24.0"
+  },
+  {
+    "target": "web.empresa.com",
+    "ip": "192.168.1.11",
+    "port": 80,
+    "protocol": "tcp",
+    "status": "open",
+    "service": "http",
+    "version": "Apache 2.4",
+    "banner": "Apache/2.4.41 (Ubuntu)"
+  }
+]

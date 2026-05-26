@@ -1,0 +1,9 @@
+[
+  {
+    "name": "List users",
+    "url": "https://api.empresa.com/users",
+    "method": "GET",
+    "requires_auth": true,
+    "status_code": 200
+  }
+]

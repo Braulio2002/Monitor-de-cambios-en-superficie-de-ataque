@@ -1,0 +1,10 @@
+[
+  {
+    "host": "api.empresa.com",
+    "ip": "192.168.1.10",
+    "port": 443,
+    "service": "https",
+    "version": "nginx 1.24",
+    "category": "web"
+  }
+]
